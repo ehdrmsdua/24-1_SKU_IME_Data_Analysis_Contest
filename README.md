@@ -7,7 +7,7 @@
 x
 
 ### Summary Preview:<br/>
-5 Pages / 8 Pages<br/>
+4 Pages / 8 Pages<br/>
 <br/>
 
 ![표지](https://github.com/user-attachments/assets/b1dc4e06-56a0-4d8b-a6e2-791a70d2e487)
