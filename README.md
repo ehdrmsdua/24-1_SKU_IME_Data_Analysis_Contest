@@ -1,4 +1,4 @@
-# Title: The 5rd SKU IME AI,Data_Analysis Contest<br/>
+# Title: The 5th SKU IME AI,Data_Analysis Contest<br/>
 ## Topic: Regression Prediction of Apparel Process Data<br/>
 ## Period: 2024.05 - 2024.05 <br/>
 ## Prize: 5rd<br/>
